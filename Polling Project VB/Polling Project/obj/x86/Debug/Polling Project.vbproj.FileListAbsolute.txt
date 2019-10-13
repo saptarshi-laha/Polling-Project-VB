@@ -1,0 +1,21 @@
+C:\Users\RikStrife(AdminRik)\Desktop\Polling Project\Polling Project\bin\Debug\Polling Project.exe
+C:\Users\RikStrife(AdminRik)\Desktop\Polling Project\Polling Project\bin\Debug\Polling Project.pdb
+C:\Users\RikStrife(AdminRik)\Desktop\Polling Project\Polling Project\bin\Debug\Polling Project.xml
+C:\Users\RikStrife(AdminRik)\Desktop\Polling Project\Polling Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\RikStrife(AdminRik)\Desktop\Polling Project\Polling Project\obj\x86\Debug\Polling_Project.Form1.resources
+C:\Users\RikStrife(AdminRik)\Desktop\Polling Project\Polling Project\obj\x86\Debug\Polling_Project.Resources.resources
+C:\Users\RikStrife(AdminRik)\Desktop\Polling Project\Polling Project\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\RikStrife(AdminRik)\Desktop\Polling Project\Polling Project\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\RikStrife(AdminRik)\Desktop\Polling Project\Polling Project\obj\x86\Debug\Polling Project.exe
+C:\Users\RikStrife(AdminRik)\Desktop\Polling Project\Polling Project\obj\x86\Debug\Polling Project.xml
+C:\Users\RikStrife(AdminRik)\Desktop\Polling Project\Polling Project\obj\x86\Debug\Polling Project.pdb
+C:\Users\RikStrife(AdminRik)\Desktop\Polling Project\Polling Project\obj\x86\Debug\Polling_Project.Form2.resources
+C:\Users\RikStrife(AdminRik)\Desktop\Polling Project\Polling Project\obj\x86\Debug\Polling_Project.Form3.resources
+C:\Users\RikStrife(AdminRik)\Desktop\Polling Project\Polling Project\obj\x86\Debug\Polling_Project.Form4.resources
+C:\Users\RikStrife(AdminRik)\Desktop\Polling Project\Polling Project\obj\x86\Debug\Polling_Project.Form5.resources
+C:\Users\RikStrife(AdminRik)\Desktop\Polling Project\Polling Project\obj\x86\Debug\Polling_Project.Form6.resources
+C:\Users\RikStrife(AdminRik)\Desktop\Polling Project\Polling Project\obj\x86\Debug\Polling_Project.Form7.resources
+C:\Users\RikStrife(AdminRik)\Desktop\Polling Project\Polling Project\obj\x86\Debug\Polling_Project.Form8.resources
+C:\Users\RikStrife(AdminRik)\Desktop\Polling Project\Polling Project\obj\x86\Debug\Polling_Project.Form9.resources
+C:\Users\RikStrife(AdminRik)\Desktop\Polling Project\Polling Project\obj\x86\Debug\Polling_Project.Form10.resources
+C:\Users\RikStrife(AdminRik)\Desktop\Polling Project\Polling Project\obj\x86\Debug\Polling_Project.Form11.resources
